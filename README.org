@@ -4,7 +4,7 @@
 
 * Installation instruction
 
-  1) Visit this page with detailed instruction: [[https://cdn.rawgit.com/acca/gitLabUserAdd/master/install.html][install]]
+  1) Visit this page with detailed instruction: [[https://rawgit.com/acca/gitLabUserAdd/master/install.html][install]]
      - You can drag&drop it to your bookmarks toolbar.
      - You can right click and choose "Save in bookmarks"
   2) Suggestion is to add it on the bookmarks toolbar for easier access
