@@ -4,7 +4,7 @@
 
 * Installation instruction
 
-  Visit this page with detailed instruction: [[https://cdn.rawgit.com/acca/gitLabUserAdd/master/bookmarklet.html][install]]
+  1) Visit this page with detailed instruction: [[https://cdn.rawgit.com/acca/gitLabUserAdd/master/bookmarklet.html][install]]
      - You can drag&drop it to your bookmarks toolbar.
      - You can right click and choose "Save in bookmarks"
   2) Suggestion is to add it on the bookmarks toolbar for easier access
@@ -16,3 +16,4 @@
   2) Click on /Add members/  on the right
   3) Type a filter in the /People/ input field
   4) Click on the bookmark just installed form the bookmarks bar
+  5) Users already preset in the group will be removed from the select list
